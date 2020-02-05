@@ -18,3 +18,6 @@ sqlite-jdbc-3.7.2.jar
 stanford-corenlp-3.5.2.jar
 stanford-corenlp-3.5.2-models.jar
 xom.jar
+
+#Classifier code in Python
+Python verion 3.X.X
