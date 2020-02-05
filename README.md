@@ -20,4 +20,6 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
 * xom.jar
 
 # Classifier code in Python
-Python verion 3.X.X
+* Python verion 3.X.X
+  * SkLearn 0.18.+
+  * Pandas 0.20+
