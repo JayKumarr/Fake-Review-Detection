@@ -3,7 +3,7 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
 
 
 
-# Preprocessing Project Required Jars For Preprocessing
+# Preprocessing Project Required Jars
 * common-lang3.jar
 * commons-csv-1.4.jar
 * javax.json.jar
