@@ -4,7 +4,7 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
 
 
 # Preprocessing Project Required Jars
-* Java version 1.7.X
+* Java version 1.7.x
 * common-lang3.jar
 * commons-csv-1.4.jar
 * javax.json.jar
@@ -22,7 +22,7 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
 ## <h3> About proprocessing code
  the proprocessing code is written in Java. The downloaded datasets were in form of SQLite, that is why we initially statblish connection with database [com.yelp.database]. A customize engine [com.engine.*] is develop to extract features from text data. The code of overall number of feature extraction can be found in [com.yelp.rest.FeatureExtractor].
 # Classifier code in Python
-* Python verion 3.X.X
+* Python verion 3.x.x
   * SkLearn 0.18.+
   * Pandas 0.20+
  
