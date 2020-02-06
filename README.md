@@ -27,7 +27,7 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
  
 ## <h3> Run Classifiers
  Pre-processing step will generate .CSV file. One can change the filename in given two files.
- python random_forest_rest.py
- python svm_res.py
+ <br/>python random_forest_rest.py
+ <br/>python svm_res.py
 
 # Detail Study and Experimentation Results
