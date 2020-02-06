@@ -32,3 +32,5 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
  <br/>python svm_res.py
 
 # Detail Study and Experimentation Results
+# Dataset
+A sample dataset is given in data folder
