@@ -34,3 +34,8 @@ Exploiting Behavioral Features to Detect Fake Reviews by Means of Contextual Fea
 # Detail Study and Experimentation Results
 # Dataset
 A sample dataset is given in data folder
+
+#Thesis
+https://arxiv.org/abs/2003.00807
+
+# author's email: jay_tharwani1992@yahoo.com
